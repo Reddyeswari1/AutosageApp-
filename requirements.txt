@@ -1,1 +1,3 @@
-
+Streamlit
+google.generativeai
+python.env
